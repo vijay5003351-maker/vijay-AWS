@@ -42,4 +42,4 @@ jobs:
 
       - name: build frontend image
         run: docker build -t frontend ./client
-        # End of file
+        # End of file and workflow
