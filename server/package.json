@@ -11,7 +11,7 @@
     "lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
     "format": "prettier --write ."
   },
-  "keywords": [],
+  "keywords": [],  
   "author": "",
   "license": "ISC",
   "type": "commonjs",
