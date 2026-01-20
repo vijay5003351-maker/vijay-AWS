@@ -1,9 +1,8 @@
 name: build-and-lint
 
 # trigger: define when this workflow should run
-
 on:
- workflow_dispatch:
+ workflow_dispatch: 
   push:
     branches: [main, dev]
   pull_request:
