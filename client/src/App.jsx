@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-count += 1; // Intentional side effect for demonstration
+
   return (
     <>
       <div>
