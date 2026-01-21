@@ -31,5 +31,6 @@ function App() {
     </>
   )
 }
+let venom = 'unused variable here';
 
 export default App
